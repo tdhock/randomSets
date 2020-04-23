@@ -1,0 +1,2 @@
+Code for creating proportional splits which are optimal in the sense
+of the [[https://en.wikipedia.org/wiki/Multinomial_distribution][multinomial likelihood]]. Discussion on [[https://tdhock.github.io/blog/2020/set-assignment/][my blog]].
